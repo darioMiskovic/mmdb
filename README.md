@@ -1,2 +1,1 @@
-Mišković Movie Database
-Movie Database - FPMOZ
+Mišković Movie Database - FPMOZ
